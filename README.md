@@ -1,6 +1,6 @@
 # 2024-Mixed-Cut
 2024年度混剪\
-<ins>声明：此Github库是该视频在互联网上的首发，在Fork该库时请标注原库的地址。\</ins>
+声明：此Github库是该视频在互联网上的首发，在Fork该库时请标注原库的地址。\
 B站：https://www.bilibili.com/video/BV1Sb6oYDEHp/?vd_source=d017ca5064702286a4b9635957144070\
 使用视频：\
 这一生总要亲眼看一次打铁花吧！\
