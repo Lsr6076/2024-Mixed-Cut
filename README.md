@@ -1,8 +1,7 @@
 # 2024-Mixed-Cut
 2024年度混剪
-声明：此Github库是该视频在互联网上的首发。
-在Fork该库时请标注原库的地址。
-https://www.bilibili.com/video/BV1Sb6oYDEHp/?vd_source=d017ca5064702286a4b9635957144070
+<ins>声明：此Github库是该视频在互联网上的首发，在Fork该库时请标注原库的地址。</ins>
+B站：https://www.bilibili.com/video/BV1Sb6oYDEHp/?vd_source=d017ca5064702286a4b9635957144070
 使用视频：
 这一生总要亲眼看一次打铁花吧！
 1200元组装神机！能干翻2万元冤种游戏本吗？
